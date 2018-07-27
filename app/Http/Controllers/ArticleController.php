@@ -2,9 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
-
-class HomeController extends Controller
+class ArticleController extends Controller
 {
     /**
      * Show the application dashboard.
